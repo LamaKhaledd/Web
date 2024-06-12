@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="background-color: green; color: white; padding: 10px;">
   <br>
   <h1>Greenthumb 🌱</h1>
   <strong>FOR MAKING OUR LIFE EASIER!</strong>
