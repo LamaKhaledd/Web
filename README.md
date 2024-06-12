@@ -99,7 +99,7 @@
 ### ⚙️ Installation
 #### To get started with the project:
 1. Clone the repository:
-> [![Github][Github]]
+> [![Github][Github]][https://github.com/Mohammad-Aker/GreenThumb]
 >
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
