@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="3.jpg" alt="Description of the image">
+  <img src="2.jpg" alt="Description of the image">
 </div>
 <br>
 <br>
@@ -142,9 +142,6 @@ Check out our project demo to see it in action! Click the link below to experien
 <br>
 <br>
 
-<div align="center">
-  <img src="4.jpg" alt="Description of the image">
-</div>
 
 
 
