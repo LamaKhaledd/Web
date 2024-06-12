@@ -1,6 +1,12 @@
+<style>
+  .custom-h1 {
+    font-size: 500px;
+  }
+</style>
+
 <div align="center">
   <br>
-  <h1 style="font-size: 500px;">Greenthumb 🌱</h1>
+  <h1 class="custom-h1">Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
   <br>
   <br>
