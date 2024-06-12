@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1 style="font-size: 200px;">Greenthumb 🌱</h1>
+  <h1 style="font-size: 500px;">Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
   <br>
   <br>
