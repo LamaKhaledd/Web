@@ -64,12 +64,12 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 
 
 ## 🌾 Features
-<strong>1. Community Gardens:<\strong> Directory of gardens with locations, available plots, and growing conditions to help users join local gardening. <br>
-<strong>2. Crop Planning and Tracking:<\strong> Tools for planning and monitoring activities like crop rotations, schedules, and harvests.<br>
-<strong>3. Knowledge Sharing:<\strong> Library of guides and tutorials from experienced gardeners and organizations.<br>
-<strong>4. Material Exchange:<\strong> Platform for sharing resources such as tools, seeds, compost, and surplus produce.<br>
-<strong>5. Volunteer Coordination:<\strong> Organizes volunteers for garden maintenance, events, and workshops.<br>
-<strong>6. Local Partnership Integration:<\strong> Connects with local nurseries, farms, and organizations to promote their products and events.<br>
+<strong>1. Community Gardens:</strong> Directory of gardens with locations, available plots, and growing conditions to help users join local gardening. <br>
+<strong>2. Crop Planning and Tracking:</strong> Tools for planning and monitoring activities like crop rotations, schedules, and harvests.<br>
+<strong>3. Knowledge Sharing:</strong> Library of guides and tutorials from experienced gardeners and organizations.<br>
+<strong>4. Material Exchange:</strong> Platform for sharing resources such as tools, seeds, compost, and surplus produce.<br>
+<strong>5. Volunteer Coordination:</strong> Organizes volunteers for garden maintenance, events, and workshops.<br>
+<strong>6. Local Partnership Integration:</strong> Connects with local nurseries, farms, and organizations to promote their products and events.<br>
 
 For more details on Additional features 🐞 visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
