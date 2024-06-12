@@ -63,7 +63,7 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 
 
 
-## 🌾 Core Features
+## 🌾 Features
 1. Community Gardens: Directory of gardens with locations, available plots, and growing conditions to help users join local gardening. <br>
 2. Crop Planning and Tracking: Tools for planning and monitoring activities like crop rotations, schedules, and harvests.<br>
 3. Knowledge Sharing: Library of guides and tutorials from experienced gardeners and organizations.<br>
@@ -71,12 +71,11 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 5. Volunteer Coordination: Organizes volunteers for garden maintenance, events, and workshops.<br>
 6. Local Partnership Integration: Connects with local nurseries, farms, and organizations to promote their products and events.<br>
 
-For more details on the features visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
+For more details on the features like pests external feature 🐞 visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
  <br>
-  <br>
 
-## Contributing
+## 🐞 Additional Features
 
 We encourage you to contribute to Forem! Please check out the
 [Contributing to Forem guide](https://developers.forem.com/contributing-guide/forem)
