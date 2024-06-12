@@ -12,7 +12,7 @@
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug</a>
     ·
-    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Request Feature</a>
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
 </div>
 <div align="center">
