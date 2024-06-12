@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <p align="center">
-    <a href="Demo Link">View Demo</a>
+    <a href="Demo Link">👾 View Demo</a>
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Report Bug</a>
     ·
@@ -89,7 +89,7 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-*   <img src="github.png" alt="Github" style="width=20px;"> wewe
+*   <img src="githb.png" alt="Github" style="width=20px;"> wewe
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
