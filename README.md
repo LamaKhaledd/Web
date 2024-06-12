@@ -7,7 +7,6 @@
 
 <div align="center">
   <p align="center">
-    <br />
     <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>Explore the docs »</strong></a>
     <br />
     <a href="Demo Link">View Demo</a>
