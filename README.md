@@ -89,7 +89,7 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-*   <img src="https://www.flaticon.com/free-icons/github" alt="Github"> <a href=""> WEWE OMAR </a>
+*   <img src="github.png" alt="Github"> <a href=""> WEWE OMAR </a>
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
