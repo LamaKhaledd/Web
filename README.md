@@ -30,31 +30,21 @@
 <details>
   <summary><h2>🌿 Table of Contents<h2\></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#intro">Introduction (What's Greenthumb?)</a></li>
+    <li><a href="#coref">Core Features</a></li>
+    <li><a href="#addf">Additional Features</a></li>
+    <li><a href="#bw">Built With</a></li>
+    <li><a href="#gs">Getting Started</a></li>
+    <li><a href="#API">API Documentation</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
  <br>
 
 
 
+<a name="intro"></a>
 ## 🌳 What is Greenthumb?
 <strong>GreenThumb</strong> is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices.
 <br>
@@ -63,7 +53,7 @@
 
 
 
-
+<a name="coref"></a>
 ## 🌾 Core Features
 <strong>1. Community Gardens:</strong> Directory of gardens with locations, available plots, and growing conditions to help users join local gardening. <br>
 <strong>2. Crop Planning and Tracking:</strong> Tools for planning and monitoring activities like crop rotations, schedules, and harvests.<br>
@@ -76,7 +66,7 @@
  <br>
 
  
-
+<a name="addf"></a>
 ## 🐞 Additional Features
 <strong>1. Chat System: </strong>Events group chats enable volunteers and representatives to communicate within event-specific group chats in real-time , enhancing coordination and collaboration within the event community.<br>
 <strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.<br>
@@ -88,7 +78,7 @@
  <br>
 
 
-
+<a name="bw"></a>
 ## 🏡 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
@@ -101,6 +91,9 @@
 <br>
 
 
+
+
+<a name="gs"></a>
 ## 🚀 Getting Started
 ### ⚙️ Running the project
 #### To get started with the project:
@@ -128,7 +121,7 @@
 
 
 
-
+<a name="API"></a>
 ## 📄 API Documentation
 The API is comprehensively documented using Postman. Access the documentation by navigating to [link] once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
@@ -138,7 +131,7 @@ The API is comprehensively documented using Postman. Access the documentation by
 <br>
 
 
-
+<a name="demo"></a>
 ## 🎥 Demo
 Check out our project demo to see it in action! Click the link below to experience the magic firsthand. <a href="Demo Link">🚀 View Demo</a>
 <br>
@@ -147,7 +140,7 @@ Check out our project demo to see it in action! Click the link below to experien
 <br>
 
 
-
+<a name="contact"></a>
 ## ☎️ Contact
 
 * Lama Ibrahim - lama.ibrahim@gmail.com
