@@ -13,11 +13,9 @@
 <div align="center">
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
-    &nbsp;&middot;&nbsp;
-    &nbsp;&middot;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;&nbsp;
-    &nbsp;&middot;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
 </div>
