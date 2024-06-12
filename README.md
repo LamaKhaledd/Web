@@ -18,6 +18,7 @@
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
 </div>
+<br>
 <div align="center">
   <img src="2.jpg" alt="Description of the image">
 </div>
