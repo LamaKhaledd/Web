@@ -10,7 +10,6 @@
 
 <div align="center">
   <p align="center">
-    <br />
     <a href="Demo Link">View Demo</a>
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Report Bug</a>
