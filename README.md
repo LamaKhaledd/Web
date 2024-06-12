@@ -4,6 +4,7 @@
   <strong>FOR MAKING OUR LIFE EASIER!</strong>
   <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
 </div>
+<br>
 <div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
@@ -12,14 +13,12 @@
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
     ·
-    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug                       </a>
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug </a>
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
 </div>
 <br>
-<br>
-
 
 
 
