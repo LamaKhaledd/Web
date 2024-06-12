@@ -27,7 +27,7 @@
 <br>
 
 
-## What is Greenthumb?
+##🌳 What is Greenthumb?
 
 GreenThumb is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices. To support these functions, we are developing a robust backend API using one of the following frameworks: Spring Boot, Node.js, or Django.🌱🌿
 
