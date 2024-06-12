@@ -96,12 +96,12 @@
 
 
 
-### Installation Documentation
+## API Documentation
+The API is comprehensively documented using Postman. Access the documentation by navigating to [link] once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
-Please see our installation guides:
 
-- [MacOS, without containers](https://developers.forem.com/getting-started/installation/mac)
-- [Linux, without containers](https://developers.forem.com/getting-started/installation/linux)
+
+
 
 ## Developer Documentation
 
