@@ -1,4 +1,3 @@
-
 <div align="center">
   <br>
   <h1>Greenthumb 🌱</h1>
@@ -7,7 +6,6 @@
   <br>
   <br>
 </div>
-
 <div align="center">
   <p align="center">
     <a href="Demo Link">View Demo</a>
@@ -87,22 +85,24 @@
  <br>
 
  
-## Getting Started
+### Built With
 
-This section provides a high-level quick start guide. If you're looking for a
-more thorough installation guide (for example
-[with macOS](https://developers.forem.com/getting-started/installation/mac),
-you'll want to refer to our complete
-[Developer Documentation](https://developers.forem.com/).
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-We run on a [Rails](https://rubyonrails.org/) backend, and we are currently
-transitioning to a [Preact](https://preactjs.com/)-first frontend.
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
-A more complete overview of our stack is available in
-[our docs](https://developers.forem.com/technical-overview/stack).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To **launch Forem in Gitpod**, navigate to
-[https://gitpod.io/#https://github.com/{your_github_username}/forem](https://gitpod.io/#https://github.com/{your_github_username}/forem).
+
+
+
 
 ### Installation Documentation
 
