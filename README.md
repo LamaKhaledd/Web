@@ -27,22 +27,9 @@
 <br>
 
 
-Welcome to GreenThumb Community Garden! Join our urban oasis where green thumbs unite to cultivate sustainable living. Whether you're a seasoned gardener or just starting out, you'll find a welcoming community and resources to help you grow. Let's nurture green spaces and a greener future together! 🌱🌿
+## What is Greenthumb?
 
-## What is Forem?
-
-Forem is open source software for building communities. Communities for your
-peers, customers, fanbases, families, friends, and any other time and space
-where people need to come together to be part of a collective.
-[See our announcement post](https://dev.to/devteam/for-empowering-community-2k6h)
-for a high-level overview of what Forem is.
-
-[dev.to](https://dev.to) (or just DEV) is hosted by Forem. It is a community of
-software developers who write articles, take part in discussions, and build
-their professional profiles. We value supportive and constructive dialogue in
-the pursuit of great code and career growth for all members. The ecosystem spans
-from beginner to advanced developers, and all are welcome to find their place
-within our community. ❤️
+GreenThumb is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices. To support these functions, we are developing a robust backend API using one of the following frameworks: Spring Boot, Node.js, or Django.🌱🌿
 
 ## Table of Contents
 
