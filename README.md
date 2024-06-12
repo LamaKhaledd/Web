@@ -18,7 +18,6 @@
   </p>
 </div>
 
-  <br />
   
 <div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
