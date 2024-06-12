@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://unsplash.com/photos/brown-wooden-welcome-signage-on-green-plants-eL4ADAsiOR8" alt="Description of the image">
+  <img src="communitygarden.jpg" alt="Description of the image">
 </div>
 
 <br>
