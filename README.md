@@ -93,7 +93,6 @@
 * [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
-<br>
 
 
 
