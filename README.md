@@ -3,12 +3,11 @@
   <h1>Greenthumb 🌱</h1>
   <strong>FOR MAKING OUR LIFE EASIER!</strong>
   <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
-  <br>
-  <br>
 </div>
 <div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
+<br>
 <div align="center">
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
