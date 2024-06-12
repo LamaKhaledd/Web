@@ -83,6 +83,7 @@
 <strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.<br>
 <strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.<br>
 <strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
  <br>
  <br>
  <br>
@@ -119,6 +120,7 @@
 > ```sh
 > npm start
 > ```
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 
 <br>
 <br>
@@ -128,14 +130,14 @@
 ## 📄 API Documentation
 The API is comprehensively documented using Postman. Access the documentation by navigating to [link] once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
-
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
 <br>
 
 
 ## 🎥 Demo
 Check out our project demo to see it in action! Click the link below to experience the magic firsthand. <a href="Demo Link">🚀 View Demo</a>
-
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
 <br>
 
@@ -146,8 +148,7 @@ Check out our project demo to see it in action! Click the link below to experien
 * Mohammed Aker - mohammad.aker@gmail.com
 * Shahd Salahat - Shahd.salahat@gmail.com
 * Dana Breik - Dana.breik@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 
 
 <br>
