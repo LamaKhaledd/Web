@@ -84,9 +84,6 @@
 
  
 ## 🏡 Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
 * [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
