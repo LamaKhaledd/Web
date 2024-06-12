@@ -74,7 +74,6 @@
 ▶️ For more details on <strong>Core Features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
  <br>
  <br>
- <br>
 
  
 
@@ -85,7 +84,6 @@
 <strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
  <br>
  <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
- <br>
  <br>
  <br>
 
@@ -100,7 +98,6 @@
 * [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
-<br>
 <br>
 
 
@@ -127,7 +124,6 @@
 
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
-<br>
 <br>
 
 
