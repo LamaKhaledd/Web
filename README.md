@@ -71,7 +71,7 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 5. Volunteer Coordination: Organizes volunteers for garden maintenance, events, and workshops.<br>
 6. Local Partnership Integration: Connects with local nurseries, farms, and organizations to promote their products and events.<br>
 <br>
-For more details on the features visit the [Wiki](https://github.com/Mohammad-Aker/GreenThumb/wiki) section.
+For more details on the features visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
 ## Contributing
 
