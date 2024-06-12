@@ -7,6 +7,9 @@
   <br>
 </div>
 <div align="center">
+  <img src="communitygarden.jpg" alt="Description of the image">
+</div>
+<div align="center">
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
     ·
@@ -14,9 +17,6 @@
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
-</div>
-<div align="center">
-  <img src="communitygarden.jpg" alt="Description of the image">
 </div>
 <br>
 <br>
