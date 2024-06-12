@@ -73,6 +73,9 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 
 For more details on the features visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
+ <br>
+  <br>
+
 ## Contributing
 
 We encourage you to contribute to Forem! Please check out the
