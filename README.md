@@ -71,8 +71,9 @@
 <strong>5. Volunteer Coordination:</strong> Organizes volunteers for garden maintenance, events, and workshops.<br>
 <strong>6. Local Partnership Integration:</strong> Connects with local nurseries, farms, and organizations to promote their products and events.<br>
 
-▶️ For more details on <strong>Additional features</strong> 🐞 visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
+▶️ For more details on <strong>Additional features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
+ <br>
  <br>
 
 ## 🐞 Additional Features
