@@ -27,7 +27,7 @@
 <br>
 
 <details>
-  <summary>🌿 Table of Contents</summary>
+  <summary><h1>🌿 Table of Contents<h1\></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
