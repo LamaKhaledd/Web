@@ -1,5 +1,8 @@
 <a name="readme-top"></a>
 <div align="center">
+  <img src="begin.png" alt="Description of the image">
+</div>
+<div align="center">
   <br>
   <h1>Greenthumb 🌱</h1>
   <strong>FOR MAKING OUR LIFE EASIER!</strong> &nbsp;
