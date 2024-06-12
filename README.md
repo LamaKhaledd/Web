@@ -1,7 +1,8 @@
 <div align="center">
   <br>
   <h1>Greenthumb 🌱</h1>
-  <strong>For making your life easier!\n\n</strong>
+  <strong>For making your life easier!</strong>
+  <p>\n</p>
 </div>
 
 <div align="center">
