@@ -3,15 +3,13 @@
   <br>
   <h1>Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
-  <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>Explore the docs »</strong></a>
-
+  <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
   <br>
   <br>
 </div>
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>Explore the docs »</strong></a>
     <br />
     <a href="Demo Link">View Demo</a>
     ·
