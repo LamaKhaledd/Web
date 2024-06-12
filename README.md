@@ -87,15 +87,12 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![SpringBoot][Spring-boot]][SpringURL]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+* [![SpringBoot][Spring-boot]][SpringURL] An open-source Java framework for creating stand-alone, production-grade applications.
+* [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] A fully-managed relational database service provided by Google Cloud Platform.
+* [![Rabbitmq][Rabbit]][RabbitURL] An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
+* [![Postman][Postman]][PostmanURL] A collaboration platform for designing, testing, and documenting APIs.
+* [![Github][Github]][GithubURL] A web-based platform for version control and collaboration using Git.
+* [![Docker][Docker]][DockerURL]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -191,16 +188,16 @@ Any questions, please refer to our
 [product-screenshot]: images/screenshot.png
 [Spring-boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
 [SpringURL]: https://spring.io/projects/spring-boot
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[DockerURL]: https://www.docker.com/
+[GoogleCloud]: https://img.shields.io/badge/Google%20Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[GoogleCloudURL]: https://cloud.google.com/?hl=en
+[Rabbit]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+[RabbitURL]: https://www.rabbitmq.com/
+[Github]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[GithubURL]: https://github.com/
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[PostmanURL]: https://www.postman.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
