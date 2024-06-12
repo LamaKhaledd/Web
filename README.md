@@ -17,14 +17,14 @@
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Request Feature</a>
   </p>
 </div>
-
-  
 <div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
+<br>
+<br>
 
-<br>
-<br>
+
+
 
 <details>
   <summary><h2>🌿 Table of Contents<h2\></summary>
@@ -53,8 +53,8 @@
  <br>
 
 
-## 🌳 What is Greenthumb?
 
+## 🌳 What is Greenthumb?
 <strong>GreenThumb</strong> is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices.
 <br>
 <br>
@@ -63,25 +63,28 @@
 
 
 
-## 🌾 Features
+## 🌾 Core Features
 <strong>1. Community Gardens:</strong> Directory of gardens with locations, available plots, and growing conditions to help users join local gardening. <br>
 <strong>2. Crop Planning and Tracking:</strong> Tools for planning and monitoring activities like crop rotations, schedules, and harvests.<br>
 <strong>3. Knowledge Sharing:</strong> Library of guides and tutorials from experienced gardeners and organizations.<br>
 <strong>4. Material Exchange:</strong> Platform for sharing resources such as tools, seeds, compost, and surplus produce.<br>
 <strong>5. Volunteer Coordination:</strong> Organizes volunteers for garden maintenance, events, and workshops.<br>
 <strong>6. Local Partnership Integration:</strong> Connects with local nurseries, farms, and organizations to promote their products and events.<br>
-
 ▶️ For more details on <strong>Additional features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
+ <br>
+ <br>
 
- <br>
- <br>
+ 
 
 ## 🐞 Additional Features
+<strong>1. Chat System: </strong>bidirectional communication between employees and project managers empowers seamless collaboration. Employees have access to dedicated groups within each project they're involved in, fostering efficient teamwork and streamlined project management.
+<strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.
+<strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.
+<strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers, 
+ <br>
+ <br>
 
-We encourage you to contribute to Forem! Please check out the
-[Contributing to Forem guide](https://developers.forem.com/contributing-guide/forem)
-for guidelines about how to proceed.
-
+ 
 ## Getting Started
 
 This section provides a high-level quick start guide. If you're looking for a
