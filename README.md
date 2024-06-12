@@ -97,16 +97,17 @@
 
 ### ⚙️ Installation
 #### Using `pip`
-Clone the repository: git clone https://github.com/jafar-sweity/CommuniCraft_Project
-Install dependencies: npm install
-Configure environment variables.
-Setup the database using mysql ( sql code is inside database folder ).
-Run the application: npm start
+1. Clone the repository:
 > [![pip](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/project/readmeai/)
 >
 > ```sh
-> pip install readmeai
+> git clone https://github.com/Mohammad-Aker/GreenThumb
 > ```
+2. Install dependencies: npm install
+> npm install
+4. Configure environment variables.
+5. DATABASE CONNECTION weweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+6. Run the application: npm start
 
 
 
