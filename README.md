@@ -97,18 +97,16 @@
 
 ### ⚙️ Installation
 #### Using `pip`
-
+Clone the repository: git clone https://github.com/jafar-sweity/CommuniCraft_Project
+Install dependencies: npm install
+Configure environment variables.
+Setup the database using mysql ( sql code is inside database folder ).
+Run the application: npm start
 > [![pip](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/project/readmeai/)
 >
 > ```sh
 > pip install readmeai
 > ```
-
-> [!TIP]
->
-> [![pipx](https://img.shields.io/badge/pipx-2CFFAA.svg?style=flat&logo=pipx&logoColor=black)](https://pipxproject.github.io/pipx/installation/)
->
-> <sub>Use [pipx](https://pipx.pypa.io/stable/installation/) to install and run Python command-line applications without causing dependency conflicts with other packages!</sub>
 
 
 
