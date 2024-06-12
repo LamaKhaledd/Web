@@ -3,6 +3,11 @@
   <h1>Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
 </div>
+
+<div align="center">
+  <img src="https://drive.google.com/file/d/1ud4xR_pv1RxkQgNk-X1eKTo-F9sqPtTM/view?usp=sharing" alt="Description of the image">
+</div>
+
 <br>
 <p align="center">
   <a href="https://github.com/forem/forem/actions/workflows/ci.yml">
