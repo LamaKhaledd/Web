@@ -73,6 +73,7 @@
 ▶️ For more details on <strong>Additional features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
  <br>
  <br>
+ <br>
 
  
 
@@ -81,6 +82,7 @@
 <strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.<br>
 <strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.<br>
 <strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
+ <br>
  <br>
  <br>
 
