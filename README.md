@@ -3,6 +3,8 @@
   <br>
   <h1>Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
+  <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>Explore the docs »</strong></a>
+
   <br>
   <br>
 </div>
