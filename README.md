@@ -87,6 +87,8 @@
  <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
  <br>
  <br>
+ <br>
+
 
 
 ## 🏡 Built With
@@ -99,6 +101,8 @@
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
+<br>
+
 
 ## 🚀 Getting Started
 ### ⚙️ Running the project
@@ -124,6 +128,8 @@
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
+<br>
+
 
 
 
@@ -133,6 +139,8 @@ The API is comprehensively documented using Postman. Access the documentation by
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
+<br>
+
 
 
 ## 🎥 Demo
@@ -140,6 +148,8 @@ Check out our project demo to see it in action! Click the link below to experien
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
+<br>
+
 
 
 ## ☎️ Contact
@@ -153,6 +163,8 @@ Check out our project demo to see it in action! Click the link below to experien
 
 <br>
 <br>
+<br>
+
 
 
 ## 📌 Acknowledgment
