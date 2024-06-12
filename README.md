@@ -14,10 +14,12 @@
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
     ·
-    <span style="margin: 0 100px;">·</span>
+    .
+    .
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug </a>
     ·
-    <span style="margin: 0 100px;">·</span>
+    .
+    .
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
 </div>
