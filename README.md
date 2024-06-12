@@ -7,12 +7,24 @@
 </div>
 
 <div align="center">
+  <p align="center">
+    <br />
+    <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="Demo Link">View Demo</a>
+    ·
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">Request Feature</a>
+  </p>
+</div>
+
+<div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
 
 <br>
-<br>
-
 <br>
 
 
