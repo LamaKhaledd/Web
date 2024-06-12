@@ -77,10 +77,10 @@
  
 
 ## 🐞 Additional Features
-<strong>1. Chat System: </strong>bidirectional communication between employees and project managers empowers seamless collaboration. Employees have access to dedicated groups within each project they're involved in, fostering efficient teamwork and streamlined project management.
-<strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.
-<strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.
-<strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers, 
+<strong>1. Chat System: </strong>bidirectional communication between employees and project managers empowers seamless collaboration. Employees have access to dedicated groups within each project they're involved in, fostering efficient teamwork and streamlined project management.<br>
+<strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.<br>
+<strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.<br>
+<strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
  <br>
  <br>
 
