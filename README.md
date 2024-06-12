@@ -1,9 +1,9 @@
 <div align="center">
   <br>
   <h1>Greenthumb 🌱</h1>
-  <strong>For making your life easier!
-  
-  </strong>
+  <strong>For making your life easier!</strong>
+  <br>
+  <br>
 </div>
 
 <div align="center">
