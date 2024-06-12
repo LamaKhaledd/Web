@@ -1,6 +1,7 @@
 
-<div align="center" style="background-color: #00a000; color: white; padding: 10px; border-radius: 10px;">
+<div align="center">
   <br>
+    <img src="capture.png" alt="Description of the image">
   <h1>Greenthumb 🌱</h1>
   <strong>FOR MAKING OUR LIFE EASIER!</strong>
   <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
