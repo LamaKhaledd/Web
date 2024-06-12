@@ -83,8 +83,9 @@
  <br>
  <br>
 
- 
-## 🏡 Built With
+## 🚀 Getting Started
+
+### 🏡 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
 * [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
@@ -94,6 +95,20 @@
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
 
+### ⚙️ Installation
+#### Using `pip`
+
+> [![pip](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/project/readmeai/)
+>
+> ```sh
+> pip install readmeai
+> ```
+
+> [!TIP]
+>
+> [![pipx](https://img.shields.io/badge/pipx-2CFFAA.svg?style=flat&logo=pipx&logoColor=black)](https://pipxproject.github.io/pipx/installation/)
+>
+> <sub>Use [pipx](https://pipx.pypa.io/stable/installation/) to install and run Python command-line applications without causing dependency conflicts with other packages!</sub>
 
 
 
