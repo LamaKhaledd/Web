@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="begin.png" alt="Description of the image">
+  <img src="1.jpg" alt="Description of the image">
 </div>
 <div align="center">
   <br>
@@ -19,7 +19,7 @@
   </p>
 </div>
 <div align="center">
-  <img src="communitygarden.jpg" alt="Description of the image">
+  <img src="2.jpg" alt="Description of the image">
 </div>
 <br>
 <br>
