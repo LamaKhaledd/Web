@@ -103,8 +103,11 @@
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
 > ```
-2. Install dependencies: npm install
+2. Install dependencies:
+>
+> ```sh
 > npm install
+> ```
 4. Configure environment variables.
 5. DATABASE CONNECTION weweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 6. Run the application: npm start
