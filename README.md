@@ -1,7 +1,7 @@
 
 <div align="center">
   <br>
-    <img src="capture.png" alt="Description of the image">
+    <img src="Capture.PNG" alt="Description of the image">
   <h1>Greenthumb 🌱</h1>
   <strong>FOR MAKING OUR LIFE EASIER!</strong>
   <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
