@@ -70,7 +70,7 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
 4. Material Exchange: Platform for sharing resources such as tools, seeds, compost, and surplus produce.<br>
 5. Volunteer Coordination: Organizes volunteers for garden maintenance, events, and workshops.<br>
 6. Local Partnership Integration: Connects with local nurseries, farms, and organizations to promote their products and events.<br>
-<br>
+
 For more details on the features visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
 
 ## Contributing
