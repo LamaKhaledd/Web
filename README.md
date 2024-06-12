@@ -3,7 +3,6 @@
   <h1>Greenthumb 🌱</h1>
   <strong>For making your life easier!</strong>
   <br>
-  <br>
 </div>
 
 <div align="center">
@@ -20,6 +19,8 @@
   </p>
 </div>
 
+  <br />
+  
 <div align="center">
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
