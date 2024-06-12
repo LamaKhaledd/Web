@@ -71,7 +71,7 @@
 <strong>4. Material Exchange:</strong> Platform for sharing resources such as tools, seeds, compost, and surplus produce.<br>
 <strong>5. Volunteer Coordination:</strong> Organizes volunteers for garden maintenance, events, and workshops.<br>
 <strong>6. Local Partnership Integration:</strong> Connects with local nurseries, farms, and organizations to promote their products and events.<br> <br>
-▶️ For more details on <strong>Additional features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
+▶️ For more details on <strong>Core Features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
  <br>
  <br>
  <br>
@@ -125,33 +125,15 @@
 
 
 
-## 🌼 API Documentation
+## 📄 API Documentation
 The API is comprehensively documented using Postman. Access the documentation by navigating to [link] once the backend is operational. This documentation covers all available endpoints, request parameters, response formats, and example requests and responses.
 
 
+<br>
+<br>
 
 
-
-## Developer Documentation
-
-[Check out our dedicated docs page for more technical documentation](https://developers.forem.com).
-
-## Vulnerability disclosure
-
-Forem is the open source software which powers [DEV](https://dev.to).
-
-We welcome security research on DEV under the terms of our
-[vulnerability disclosure policy](https://dev.to/security).
-
-## Acknowledgements
-
-Thank you to the [Twemoji project](https://github.com/twitter/twemoji) for the
-usage of their emojis.
-
-Thank you to [Uffizzi](https://www.uffizzi.com) for providing ephemeral
-environments to preview pull requests.
-
-## License
+## 🎥 Demo
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
