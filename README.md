@@ -30,7 +30,9 @@
 ## 🌳 What is Greenthumb?
 
 GreenThumb is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices.
-<br>
+<br \>
+
+<br \>
 
 ## 🌿 Table of Contents
 
