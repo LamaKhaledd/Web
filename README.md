@@ -19,6 +19,7 @@
   <img src="communitygarden.jpg" alt="Description of the image">
 </div>
 <br>
+<br>
 
 
 
