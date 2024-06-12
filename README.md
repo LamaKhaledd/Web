@@ -12,7 +12,7 @@
   <p align="center">
     <a href="Demo Link">👾 View Demo</a>
     ·
-    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug</a>
+    <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🐞 Report Bug                       </a>
     ·
     <a href="https://github.com/Mohammad-Aker/GreenThumb/issues">🧩 Request Feature</a>
   </p>
