@@ -2,7 +2,7 @@
 <div align="center">
   <br>
   <h1>Greenthumb 🌱</h1>
-  <strong>FOR MAKING OUR LIFE EASIER!</strong> &nbsp;&nbsp;
+  <strong>FOR MAKING OUR LIFE EASIER!</strong> &nbsp;
   <a href="https://github.com/Mohammad-Aker/GreenThumb"><strong>  Explore the docs »</strong></a>
 </div>
 <br>
