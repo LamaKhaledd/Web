@@ -100,7 +100,7 @@
 <br>
 
 ## 🚀 Getting Started
-### ⚙️ Installation
+### ⚙️ Running the project
 #### To get started with the project:
 1. Clone the repository:
 > [![Github][Github]][wewe]
