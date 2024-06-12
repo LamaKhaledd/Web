@@ -83,9 +83,8 @@
  <br>
  <br>
 
-## 🚀 Getting Started
 
-### 🏡 Built With
+## 🏡 Built With
 * [![SpringBoot][Spring-boot]][SpringURL] <br>An open-source Java framework for creating stand-alone, production-grade applications.
 * [![Google Cloud SQL][GoogleCloud]][GoogleCloudURL] <br>A fully-managed relational database service provided by Google Cloud Platform.
 * [![Rabbitmq][Rabbit]][RabbitURL] <br>An open-source message broker software implementing the Advanced Message Queuing Protocol (AMQP).
@@ -94,11 +93,13 @@
 * [![Github][Github]][GithubURL] <br>A web-based platform for version control and collaboration using Git.
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
+<br>
 
+## 🚀 Getting Started
 ### ⚙️ Installation
-#### Using `pip`
+#### To get started with the project:
 1. Clone the repository:
-> [![pip](https://img.shields.io/badge/PyPI-3775A9.svg?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/project/readmeai/)
+> [![Github][Github]][GithubURL]
 >
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
@@ -108,10 +109,15 @@
 > ```sh
 > npm install
 > ```
-4. Configure environment variables.
-5. DATABASE CONNECTION weweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-6. Run the application: npm start
+4. DATABASE CONNECTION weweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+5. Run the application:
+>
+> ```sh
+> npm start
+> ```
 
+<br>
+<br>
 
 
 
