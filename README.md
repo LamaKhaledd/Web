@@ -26,15 +26,6 @@
 <br>
 <br>
 
-
-## 🌳 What is Greenthumb?
-
-GreenThumb is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices.
-<br>
-<br>
-<br>
-
-
 <details>
   <summary>🌿 Table of Contents</summary>
   <ol>
@@ -59,6 +50,16 @@ GreenThumb is a platform designed to promote urban gardening, sustainable living
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## 🌳 What is Greenthumb?
+
+GreenThumb is a platform designed to promote urban gardening, sustainable living, and community-driven food production. It serves as a hub for individuals, communities, and organizations to collaborate, share knowledge, and access resources related to urban gardening and sustainable living practices.
+<br>
+<br>
+<br>
+
+
+
 
 ## Community
 
