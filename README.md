@@ -20,7 +20,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="2.jpg" alt="Description of the image">
+  <img src="3.jpg" alt="Description of the image">
 </div>
 <br>
 <br>
@@ -136,13 +136,15 @@ The API is comprehensively documented using Postman. Access the documentation by
 ## 🎥 Demo
 Check out our project demo to see it in action! Click the link below to experience the magic firsthand. <a href="Demo Link">🚀 View Demo</a>
 
-<p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
-  <br>
-  <strong>Happy Coding</strong> ❤️
-</p>
+<br>
+<br>
 
-[⬆ Back to Top](#table-of-contents)
+<br>
+<br>
+
+<div align="center">
+  <img src="4.jpg" alt="Description of the image">
+</div>
 
 
 
