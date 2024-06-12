@@ -99,7 +99,7 @@
 ### ⚙️ Installation
 #### To get started with the project:
 1. Clone the repository:
-> [![Github][Github]][https://github.com/Mohammad-Aker/GreenThumb]
+> [![Github][Github]][wewe]
 >
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
@@ -222,5 +222,5 @@ Any questions, please refer to our
 [PostmanURL]: https://www.postman.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[wewe]: https://github.com/Mohammad-Aker/GreenThumb
 [JQuery-url]: https://jquery.com 
