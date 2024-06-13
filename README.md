@@ -146,12 +146,12 @@ Check out our project demo to see it in action! Click the link below to experien
 <p align="center"><a href="https://github.com/Mohammad-Aker/GreenThumb/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Mohammad-Aker/GreenThumb" />
 </a> </p>
-
-
-
 <p align="center"> <strong>Contributions are always welcome!</strong> </p>
-
 <p align="center"> See `contributing.md` for ways to get started.</p>
+<br>
+<br>
+
+
 <a name="contact"></a>
 ## ☎️ Contact
 
