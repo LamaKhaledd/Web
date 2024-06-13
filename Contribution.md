@@ -6,9 +6,9 @@ Thank you for your interest in contributing to the GreenThumb Project! We welcom
 
 ### 1. Fork the Repository
 Fork the GreenThumb repository to your GitHub account. This allows you to freely make changes without affecting the original project.
-
+```sh
 - git clone https://github.com/YOUR_USERNAME/GreenThumb.git
-
+```
 
 ### 2. Set Up Your Development Environment
 Ensure you have the following installed:
@@ -23,9 +23,9 @@ Follow the [[Usage Guide|#usage-guide]] to set up the development environment.
 Create a new branch for your changes. Use a descriptive name that relates to your contribution.
 
 
-
+```sh
 git checkout -b feature/your-feature-name
-
+```
 
 ### 4. Make Your Changes
 Make the necessary changes to the codebase. Follow the project's coding standards and ensure your code is well-documented.
@@ -34,28 +34,28 @@ Make the necessary changes to the codebase. Follow the project's coding standard
 Run the application locally and test your changes thoroughly. Ensure all tests pass.
 
 
-
+```sh
 mvn clean test
-
+```
 
 
 ### 6. Commit Your Changes
 Commit your changes with a clear, concise message. Include a reference to the issue you are fixing or the feature you are adding.
 
 
-
+```sh
 git add .
 git commit -m "Add feature X to GreenThumb"
-
+```
 
 
 ### 7. Push Your Changes
 Push your branch to your forked repository.
 
 
-
+```sh
 git push origin feature/your-feature-name
-
+```
 
 
 ### 8. Create a Pull Request
