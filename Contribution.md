@@ -17,7 +17,6 @@ Ensure you have the following installed:
 - RabbitMQ
 - Access to Google Cloud SQL
 
-Follow the [[Usage Guide|#usage-guide]] to set up the development environment.
 
 ### 3. Create a New Branch
 Create a new branch for your changes. Use a descriptive name that relates to your contribution.
@@ -67,9 +66,8 @@ Be responsive to feedback from the maintainers. Make any required changes and pu
 ### 10. Celebrate Your Contribution!
 Once your pull request is merged, thank you for your contribution! Your work helps promote sustainable urban gardening practices.
 
-## Code of Conduct
-
-Please adhere to the [[Code of Conduct|CODE_OF_CONDUCT.md]] to ensure a welcoming and respectful environment for all contributors.
+<br>
+<br>
 
 ## Getting Help
 
@@ -77,10 +75,10 @@ If you need assistance, feel free to ask questions in the GitHub Issues or join 
 
 ## Additional Resources
 
-- [[Wiki|https://github.com/Mohammad-Aker/GreenThumb/wiki]]
-- [[API Documentation|#api-documentation]]
+- <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a>
+- API Documentation
 
-Thank you for contributing to the GreenThumb Project!
+<p align="center"> <strong> 🎉 Thank you for contributing to the GreenThumb Project! 🎉 </strong> </p>
 
 
 
