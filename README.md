@@ -105,7 +105,6 @@
 > ```
 2. Configure the Database:
 Access the Google Cloud SQL instance and set up the database configurations in application.properties.
-<br>
 3. Run the Backend:
 >
 > ```sh
