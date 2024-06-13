@@ -141,7 +141,7 @@ Check out our project demo to see it in action! Click the link below to experien
 <br>
 <br>
 
-## :wave: Contributing <a href="https://github.com/Mohammad-Aker/GreenThumb/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mohammad-Aker/GreenThumb" alt="contributors" /></a>
+## :wave: Contributing &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://github.com/Mohammad-Aker/GreenThumb/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mohammad-Aker/GreenThumb" alt="contributors" /></a>
 
 <a href="https://github.com/Mohammad-Aker/GreenThumb/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Mohammad-Aker/GreenThumb" />
