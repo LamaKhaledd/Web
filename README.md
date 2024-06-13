@@ -141,7 +141,16 @@ Check out our project demo to see it in action! Click the link below to experien
 <br>
 <br>
 
+## :wave: Contributing
 
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
+
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
 <a name="contact"></a>
 ## ☎️ Contact
 
