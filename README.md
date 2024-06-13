@@ -146,7 +146,7 @@ Check out our project demo to see it in action! Click the link below to experien
 ## ☎️ Contact
 
 * Lama Ibrahim - lama.ibrahim@gmail.com
-* Mohammed Aker - mohammad.aker@gmail.com
+* Mohammed Aker - mohammadaker7@gmail.com
 * Shahd Salahat - Shahd.salahat@gmail.com
 * Dana Breik - Dana.breik@gmail.com
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
