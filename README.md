@@ -103,17 +103,17 @@
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
 > ```
-2. Install dependencies:
+2. Configure the Database:
+Access the Google Cloud SQL instance and set up the database configurations in application.properties.
+<br>
+3. Run the Backend:
 >
 > ```sh
-> npm install
+> mvn spring-boot:run
 > ```
-4. DATABASE CONNECTION weweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-5. Run the application:
->
-> ```sh
-> npm start
-> ```
+5. Setup RabbitMQ:
+* Ensure RabbitMQ server is running.
+* Configure RabbitMQ settings in application.properties.
 
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
