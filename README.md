@@ -140,6 +140,7 @@ Check out our project demo to see it in action! Click the link here to experienc
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
 <br>
+<br>
 
 ## :wave: Contributing 
 <p align="right"> <a href="https://github.com/Mohammad-Aker/GreenThumb/graphs/contributors"><img src="https://img.shields.io/github/contributors/Mohammad-Aker/GreenThumb" alt="contributors" /></a> </p>
