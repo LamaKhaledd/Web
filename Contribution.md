@@ -4,7 +4,7 @@
 
 Thank you for your interest in contributing to the GreenThumb Project! We welcome contributions from everyone, whether you're a developer, gardener, or just passionate about sustainable living. Here’s a guide to get you started:
 <br>
-
+<br>
 
 ## How to Contribute
 
@@ -14,7 +14,6 @@ Fork the GreenThumb repository to your GitHub account. This allows you to freely
 ```sh
 - git clone https://github.com/YOUR_USERNAME/GreenThumb.git
 ```
-<br>
 
 
 ### 2. Set Up Your Development Environment
