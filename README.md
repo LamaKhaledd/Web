@@ -71,9 +71,9 @@
 ## 🐞 Additional Features
 <strong>1. Chat System: </strong>Events group chats enable volunteers and representatives to communicate within event-specific group chats in real-time , enhancing coordination and collaboration within the event community.<br>
 <strong>2. External API Integration: </strong> Utilized to enhance functionality and supplement data collection.<br>
-<strong>3. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.<br>
-<strong>4. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
-<strong>5. Security: </strong>Privacy, security and encryption are provided as all passwords are encrypted. More details visit our <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> <br>
+<strong>3. Security: </strong>Privacy, security and encryption are provided as all passwords are encrypted. For more details visit our <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> <br>
+<strong>4. Testing: </strong> Guaranteeing a robust and stable platform for crafting project management.<br>
+<strong>5. Docker: </strong> Simplifies software deployment by packaging applications into portable containers.<br>
 
  <br>
  <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
