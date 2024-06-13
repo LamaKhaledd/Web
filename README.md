@@ -97,20 +97,20 @@
 ## 🚀 Getting Started
 ### ⚙️ Running the project
 #### To get started with the project:
-1. Clone the repository:
+##### 1. Clone the repository:
 > [![Github][Github]][wewe]
 >
 > ```sh
 > git clone https://github.com/Mohammad-Aker/GreenThumb
 > ```
-2. Configure the Database:
+##### 2. Configure the Database:
 Access the Google Cloud SQL instance and set up the database configurations in application.properties.
-3. Run the Backend:
+##### 3. Run the Backend:
 >
 > ```sh
 > mvn spring-boot:run
 > ```
-5. Setup RabbitMQ:
+##### 4. Setup RabbitMQ:
 * Ensure RabbitMQ server is running.
 * Configure RabbitMQ settings in application.properties.
 
