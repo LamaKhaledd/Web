@@ -135,7 +135,7 @@ The API is comprehensively documented using Postman. Access the documentation by
 
 <a name="demo"></a>
 ## 🎥 Demo
-Check out our project demo to see it in action! Click the link below to experience the magic firsthand. <a href="Demo Link">🚀 View Demo</a>
+Check out our project demo to see it in action! Click the link here to experience the magic firsthand. <a href="Demo Link">🚀 View Demo</a>
 <br>
 <p align="right">(<a href="#readme-top">⬆️ Back to top</a>)</p>
 <br>
