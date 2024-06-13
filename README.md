@@ -149,9 +149,9 @@ Check out our project demo to see it in action! Click the link below to experien
 
 
 
-Contributions are always welcome!
+<p align="center"> <strong>Contributions are always welcome!</strong> </p>
 
-See `contributing.md` for ways to get started.
+<p align="center"> See `contributing.md` for ways to get started.</p>
 <a name="contact"></a>
 ## ☎️ Contact
 
