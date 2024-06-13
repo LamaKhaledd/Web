@@ -110,7 +110,7 @@ Access the Google Cloud SQL instance and set up the database configurations in a
 >
 > ```sh
 > mvn spring-boot:run
-> ```
+> ``
 5. Setup RabbitMQ:
 * Ensure RabbitMQ server is running.
 * Configure RabbitMQ settings in application.properties.
