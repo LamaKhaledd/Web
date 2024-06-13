@@ -1,3 +1,6 @@
+<br>
+<br>
+
 # Contributing to GreenThumb
 
 Thank you for your interest in contributing to the GreenThumb Project! We welcome contributions from everyone, whether you're a developer, gardener, or just passionate about sustainable living. Here’s a guide to get you started:
