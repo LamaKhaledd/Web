@@ -64,6 +64,7 @@
 ▶️ For more details on <strong>Core Features</strong> visit the <a href="https://github.com/Mohammad-Aker/GreenThumb/wiki">Wiki</a> section.
  <br>
  <br>
+ <br>
 
  
 <a name="addf"></a>
