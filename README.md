@@ -38,7 +38,7 @@
     <li><a href="#gs">Getting Started</a></li>
     <li><a href="#API">API Documentation</a></li>
     <li><a href="#demo">Demo</a></li>
-    <li><a href="#contribution">Getting Started</a></li>
+    <li><a href="#contribution">Contribution</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
